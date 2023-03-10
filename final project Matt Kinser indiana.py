@@ -1,6 +1,6 @@
 # matt kinser
 #sdev140-1ON
-#this project will let the user decide who will win the indiana vs iowa game
+#this project will let the user decide who will win the indiana vs iowa game 
 
 from breezypythongui import EasyFrame 
 from tkinter import PhotoImage, messagebox
